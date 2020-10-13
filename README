@@ -1,0 +1,8 @@
+# A new history-guided multi-objective evolutionary algorithm based on decomposition for batching scheduling (https://doi.org/10.1016/j.eswa.2019.112920)
+
+A history-guided evolutionary algorithm based on decomposition with two strategies is proposed to solve a multi-objective scheduling problem on parallel batching machines.
+
+## How to Run
+1.Configure JobNum and MNum to be (300,5) or (150,3) in "Common.h"
+2.Run the main function
+3.Get experimental results in the in "./result"

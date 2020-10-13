@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1602576024 source:e:\workplace\hgead3.3\foodset.cpp
+	"stdafx.h"
+	"FoodSet.h"
+	"Common.h"
+
+1602579882 e:\workplace\hgead3.3\stdafx.h
+	<math.h>
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<random>
+	<string>
+	<sstream>
+	<io.h>
+
+1530867734 e:\workplace\hgead3.3\foodset.h
+	"stdafx.h"
+	"Solution.h"
+
+1530867388 e:\workplace\hgead3.3\solution.h
+	"stdafx.h"
+	"Common.h"
+
+1602580840 e:\workplace\hgead3.3\common.h
+	"stdafx.h"
+	"Job.h"
+
+1532264916 e:\workplace\hgead3.3\job.h
+	"stdafx.h"
+
+1602576125 source:e:\workplace\hgead3.3\main.cpp
+	<iostream>
+	"stdafx.h"
+	"Common.h"
+
+1602572659 source:e:\workplace\hgead3.3\indv.cpp
+	"stdafx.h"
+	"Indv.h"
+	"Common.h"
+	"FoodSet.h"
+
+1602572655 e:\workplace\hgead3.3\indv.h
+	"stdafx.h"
+	"Batch.h"
+	"Machine.h"
+	"Common.h"
+	"FoodSet.h"
+
+1531480444 e:\workplace\hgead3.3\batch.h
+	"stdafx.h"
+	"Common.h"
+
+1531480120 e:\workplace\hgead3.3\machine.h
+	"Common.h"
+
+1602580829 source:e:\workplace\hgead3.3\common.cpp
+	"stdafx.h"
+	"Indv.h"
+	"Batch.h"
+	"Job.h"
+	"Machine.h"
+	"Common.h"
+
